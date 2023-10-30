@@ -11,9 +11,9 @@ I'm deepening my understanding of modern front-end development techniques and pr
 
 
 ## I'm currently working on 🛠
-On implementing Firebase in my Ring of fire game<br><br>
+Build Join- a kanban project management tool with Angular<br><br>
 
-- 👨‍💻 Some of my projects will be soon available at benjamintietz.com
+- 👨‍💻 Some of my projects will be soon available at benjamin-tietz.com
 
 - 📫 How to reach me **benjamin0tietz@gmail.com**<br><br>
 
