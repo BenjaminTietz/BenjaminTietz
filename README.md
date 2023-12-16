@@ -13,7 +13,10 @@ I'm deepening my understanding of modern front-end development techniques and pr
 ## I'm currently working on 🛠
 Build Simple-CRM a CCRM tool with Angular & Material Design<br><br>
 
-- 👨‍💻 Some of my projects will be soon available at benjamin-tietz.com
+- 👨‍💻 Some of my projects are available at <a href="https://benjamin-tietz.com" title="Benjamin Tietz Portfolio">
+    Benjamin Tietz Portfolio
+</a>
+
 
 - 📫 How to reach me **benjamin0tietz@gmail.com**<br><br>
 
