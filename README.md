@@ -11,7 +11,7 @@ I'm deepening my understanding of modern front-end development techniques and pr
 
 
 ## I'm currently working on 🛠
-Build Join- a kanban project management tool with Angular<br><br>
+Build Simple-CRM a CCRM tool with Angular & Material Design<br><br>
 
 - 👨‍💻 Some of my projects will be soon available at benjamin-tietz.com
 
