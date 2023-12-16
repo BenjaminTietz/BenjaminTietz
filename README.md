@@ -18,7 +18,7 @@ Build Simple-CRM a CCRM tool with Angular & Material Design<br><br>
 </a>
 
 
-- 📫 How to reach me **benjamin0tietz@gmail.com**<br><br>
+- 📫 How to reach me **mail@benjamin-tietz.com**<br><br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
