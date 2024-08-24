@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm @BenjaminTietz</h1>
 <h3 align="center">A passionate frontend developer on the way to Fullstack from Germany</h3>
-
-![Code Driveby](https://github.com/user-attachments/assets/f72af3a4-5aa0-4c11-9bf3-eeeab6c87b23)
+<p align="center">
+  <img alt="Coding GIF" width="300px" height="auto" src="https://github.com/user-attachments/assets/f72af3a4-5aa0-4c11-9bf3-eeeab6c87b23"/>
+</p>
 
 ## What I'm Currently Learning 📚
 
@@ -51,6 +52,12 @@ Building a simple chat application with Python & Django.<br><br>
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+  </a>
+  <a href="https://https://www.python.org//" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="40" height="40"/>
   </a>
 </p>
 <br><br>
