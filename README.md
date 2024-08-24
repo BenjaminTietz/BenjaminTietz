@@ -4,14 +4,14 @@
 ## What I'm Currently Learning 📚
 
 **Specific technologies/tools/frameworks:**  
-I'm currently learning the intricacies of Angular and TypeScript to build powerful and scalable front-end applications.
+I am currently learning the basics of Python and the Django framework, and am currently building a simple chat application.
 
 **Best practices and principles:**  
 I'm deepening my understanding of modern front-end development techniques and practices, including responsive design and web accessibility.
 
 
 ## I'm currently working on 🛠
-Build a Slack Clone with Angular & Firebase <br><br>
+Building a simple chat application with Python & Django.<br><br>
 
 - 👨‍💻 Some of my projects are available at <a href="https://benjamin-tietz.com" title="Benjamin Tietz Portfolio">
     Benjamin Tietz Portfolio
