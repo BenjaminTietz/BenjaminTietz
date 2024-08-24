@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm @BenjaminTietz</h1>
 <h3 align="center">A passionate frontend developer on the way to Fullstack from Germany</h3>
 
+![Code Driveby](https://github.com/user-attachments/assets/f72af3a4-5aa0-4c11-9bf3-eeeab6c87b23)
+
 ## What I'm Currently Learning 📚
 
 **Specific technologies/tools/frameworks:**  
@@ -8,6 +10,7 @@ I am currently learning the basics of Python and the Django framework, and am cu
 
 **Best practices and principles:**  
 I'm deepening my understanding of modern front-end development techniques and practices, including responsive design and web accessibility.
+
 
 
 ## I'm currently working on 🛠
