@@ -7,7 +7,7 @@
 ## What I'm Currently Learning 📚
 
 **Specific technologies/tools/frameworks:**  
-I am currently learning the basics of Python and the Django framework, and am currently building a simple chat application.
+I am currently learning the basics of Python and the Django framework, and am currently building a backend for my vanilla JS Frontend Project "Join"
 
 **Best practices and principles:**  
 I'm deepening my understanding of modern front-end development techniques and practices, including responsive design and web accessibility.
@@ -15,7 +15,7 @@ I'm deepening my understanding of modern front-end development techniques and pr
 
 
 ## I'm currently working on 🛠
-Building a simple chat application with Python & Django.<br><br>
+Building a backend for my vanilla JS Frontend Project "Join" with Python & Django & Django rest framework.<br><br>
 
 - 👨‍💻 Some of my projects are available at <a href="https://benjamin-tietz.com" title="Benjamin Tietz Portfolio">
     Benjamin Tietz Portfolio
