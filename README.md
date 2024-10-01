@@ -8,7 +8,9 @@
 I am currently learning the basics of Python and the Django framework.
 
 **Specific technologies/tools/frameworks:**  
-I´m building a Netflix clone in a team project with Angular 18 (Frontend) and Django / Django RestFramework (Backend).
+Languages: JavaScript, Typescript, Phyton<br><br>
+Frameworks: Angular 18, Django <br><br>
+Tools: GIT, Figma, Kanbanboard such as Trello
 
 **Best practices and principles:**  
 I'm deepening my understanding of modern front-end development techniques and practices, including responsive design and web accessibility.
@@ -16,7 +18,7 @@ I'm deepening my understanding of modern front-end development techniques and pr
 
 
 ## I'm currently working on 🛠
-Building a backend for my vanilla JS Frontend Project "Join" with Python & Django & Django rest framework.<br><br>
+I´m building a Netflix clone in a team project with Angular 18 (Frontend) and Django / Django RestFramework (Backend).<br><br>
 
 - 👨‍💻 Some of my projects are available at <a href="https://benjamin-tietz.com" title="Benjamin Tietz Portfolio">
     Benjamin Tietz Portfolio
