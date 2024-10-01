@@ -5,9 +5,10 @@
 </p>
 
 ## What I'm Currently Learning 📚
+I am currently learning the basics of Python and the Django framework.
 
 **Specific technologies/tools/frameworks:**  
-I am currently learning the basics of Python and the Django framework, and am currently building a backend for my vanilla JS Frontend Project "Join"
+I´m building a Netflix clone in a team project with Angular 18 (Frontend) and Django / Django RestFramework (Backend).
 
 **Best practices and principles:**  
 I'm deepening my understanding of modern front-end development techniques and practices, including responsive design and web accessibility.
