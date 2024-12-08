@@ -5,7 +5,7 @@
 </p>
 
 ## I'm currently working on 🛠
-I am currently working on: 
+I am currently working on:  
 
 ->   **Coderr**: A freelance platform similar to Fiverr.  
    - **Frontend**: Developed in Vanilla JS (largely provided to us).  
