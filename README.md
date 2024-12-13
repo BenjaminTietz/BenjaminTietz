@@ -7,7 +7,7 @@
 ## I'm currently working on 🛠
 I am currently working on:  
 
-->   **Coderr**: A freelance platform similar to Fiverr.  
+->   **Coderr**: A freelance platform similar to Fiverr.
    - **Frontend**: Developed in Vanilla JS (largely provided to us).  
    - **Backend**: Built with Python, Django, Django REST framework, and PostgreSQL.  
    - Collaborating with two other developers to deliver this project.  
