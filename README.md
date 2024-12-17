@@ -4,7 +4,7 @@
   <img alt="Coding GIF" width="300px" height="auto" src="https://github.com/user-attachments/assets/f72af3a4-5aa0-4c11-9bf3-eeeab6c87b23"/>
 </p>
 
-## I'm currently working on 🛠
+## I'm currently working on 🛠 
 I am currently working on: 
 
 ->   **Coderr**: A freelance platform similar to Fiverr. 
