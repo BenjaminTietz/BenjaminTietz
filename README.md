@@ -4,13 +4,17 @@
   <img alt="Coding GIF" width="300px" height="auto" src="https://github.com/user-attachments/assets/f72af3a4-5aa0-4c11-9bf3-eeeab6c87b23"/>
 </p>
 
-## I'm currently working on 🛠 
-I am currently working on: 
+I'm currently working on 🛠
 
-->   **Coderr**: A freelance platform similar to Fiverr. 
-   - **Frontend**: Developed in Vanilla JS (largely provided to us).  
-   - **Backend**: Built with Python, Django, Django REST framework, and PostgreSQL.  
-   - Collaborating with two other developers to deliver this project.  
+->   HostPilot: A Property Management System for Guesthouse Owners.
+
+Frontend: Developed with Angular 19.
+
+Backend: Built with Python, Django REST framework, and PostgreSQL.
+
+Features user authentication, booking management, invoicing, and analytics.
+
+Designed to simplify property and guest management for small and mid-sized guesthouses.
 
 
 - 👨‍💻 Some of my projects are available at [Benjamin Tietz Portfolio](https://benjamin-tietz.com)
