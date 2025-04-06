@@ -6,7 +6,7 @@
 
 I'm currently working on 🛠
 
-->   HostPilot: A Property Management System for Guesthouse Owners.
+->   LeaseLoop: A Property Management System for Guesthouse / Airbnb Owners.
 
 Frontend: Developed with Angular 18.
 
