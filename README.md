@@ -8,7 +8,7 @@ I'm currently working on 🛠
 
 ->   HostPilot: A Property Management System for Guesthouse Owners.
 
-Frontend: Developed with Angular 19.
+Frontend: Developed with Angular 18.
 
 Backend: Built with Python, Django REST framework, and PostgreSQL.
 
