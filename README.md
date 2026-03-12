@@ -1,49 +1,245 @@
-<h1 align="center">Hi 👋, I'm @BenjaminTietz</h1>
-<h3 align="center">A passionate fullstack developer from Germany.</h3>
+```{=html}
+<h1 align="center">
+```
+Hi 👋, I'm @BenjaminTietz
+```{=html}
+</h1>
+```
+```{=html}
+<h3 align="center">
+```
+A passionate fullstack developer from Germany.
+```{=html}
+</h3>
+```
+```{=html}
 <p align="center">
-  <img alt="Coding GIF" width="300px" height="auto" src="https://github.com/user-attachments/assets/f72af3a4-5aa0-4c11-9bf3-eeeab6c87b23"/>
+```
+`<img alt="Coding GIF" width="300px" height="auto" src="https://github.com/user-attachments/assets/f72af3a4-5aa0-4c11-9bf3-eeeab6c87b23"/>`{=html}
+```{=html}
 </p>
-
+```
 I'm currently working on 🛠
 
-->   LeaseLoop: A Property Management System for Guesthouse / Airbnb Owners.
+## 🇹🇭 Thailand Vloggers Platform
 
-Frontend: Developed with Angular 18.
+A large-scale **creator discovery platform for Thailand travel
+YouTubers**.
 
-Backend: Built with Python, Django REST framework, and PostgreSQL.
+The project is designed as a **modern headless architecture** combining
+a high-performance static website, a creator dashboard, and a scalable
+backend system.
 
-Features user authentication, booking management, invoicing, and analytics.
+The goal of the platform is to connect:
 
-Designed to simplify property and guest management for small and mid-sized guesthouses.
+-   Thailand travel creators
+-   travel destinations
+-   travel guides
+-   video content
 
+into a **structured SEO-driven content ecosystem**.
 
-- 👨‍💻 Some of my projects are available at [Benjamin Tietz Portfolio](https://benjamin-tietz.com)
+------------------------------------------------------------------------
 
-- 📫 How to reach me: **mail@benjamin-tietz.com**
+## 🏗 Platform Architecture
 
-## 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-<br><br>
+The system follows a **three-layer architecture**.
 
-## GitHub Stats:
-<p align="center">
-  <a href="https://github.com/BenjaminTietz">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BenjaminTietz&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages">
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/BenjaminTietz">
-    <img src="https://github-readme-stats.vercel.app/api?username=BenjaminTietz&show_icons=true&theme=dark&locale=en" alt="GitHub Stats">
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/BenjaminTietz">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=BenjaminTietz&theme=dark" alt="GitHub Streak">
-  </a>
-</p>
+    Static SEO Platform (SSG)
+            │
+            ▼
+    Creator Dashboard (CSR)
+            │
+            ▼
+    Django REST Backend
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=BenjaminTietz&icon=0&color=0" alt="Visitor Count">
-  </a>
-</p>
+------------------------------------------------------------------------
+
+### 1️⃣ Public Website --- Static Site Generation
+
+The public website is built with **Angular** and prerendered using
+**SSG**.
+
+Goals:
+
+-   Maximum SEO performance
+-   Extremely fast load times
+-   Highly scalable content structure
+
+Features:
+
+-   Creator profiles
+-   Region hubs
+-   Category hubs
+-   Travel guides
+-   YouTube video integration
+-   Topic cluster SEO architecture
+
+All content is stored as structured JSON files.
+
+Example:
+
+    src/content/creators/*.json
+    src/content/regions/*.json
+    src/content/categories/*.json
+    src/content/guides/*.json
+
+This allows the platform to scale to **hundreds of creators and
+thousands of pages** while maintaining performance.
+
+------------------------------------------------------------------------
+
+### 2️⃣ Creator Dashboard --- Angular Application
+
+The platform also includes a **separate Angular dashboard** where
+creators can manage their profiles.
+
+Features:
+
+-   Creator account system
+-   Profile editing
+-   Social links management
+-   Media uploads
+-   Change request workflow
+-   Notifications
+
+Architecture:
+
+-   Angular SPA
+-   JWT Authentication
+-   REST API communication with Django backend
+
+Creators **do not modify live content directly**.
+
+Instead they submit **change requests** which are reviewed before going
+live.
+
+------------------------------------------------------------------------
+
+### 3️⃣ Backend --- Django REST Platform
+
+The backend is built with:
+
+-   Python
+-   Django
+-   Django REST Framework
+-   PostgreSQL
+
+Responsibilities:
+
+-   Authentication system
+-   Creator profile management
+-   Moderation workflows
+-   Media upload pipeline
+-   Community features
+-   Content synchronization
+
+The backend acts as the **single source of truth** for creator data.
+
+Approved content can be exported to JSON files which are used by the
+static site.
+
+------------------------------------------------------------------------
+
+## 🔄 Content Synchronization Pipeline
+
+The platform combines **database-driven editing** with **static site
+performance**.
+
+    Creator submits change
+            │
+    Admin approves change
+            │
+    Database updated
+            │
+    Content exported to JSON
+            │
+    GitHub Action triggers rebuild
+            │
+    Static site redeployed
+
+This allows **fast, SEO-optimized pages** while still supporting
+**dynamic content management**.
+
+------------------------------------------------------------------------
+
+## 💻 Tech Stack
+
+Frontend
+
+-   Angular
+-   TypeScript
+-   RxJS
+-   SCSS
+
+Backend
+
+-   Python
+-   Django
+-   Django REST Framework
+-   PostgreSQL
+
+Infrastructure
+
+-   Docker
+-   Nginx
+-   Apache
+-   GitHub Actions
+
+------------------------------------------------------------------------
+
+## 🚀 Additional Project
+
+### LeaseLoop --- Property Management System
+
+A **Property Management System** designed for **guesthouses and Airbnb
+owners**.
+
+Frontend
+
+-   Angular 18
+
+Backend
+
+-   Python
+-   Django REST Framework
+-   PostgreSQL
+
+Core Features
+
+-   User authentication
+-   Booking management
+-   Invoicing system
+-   Property & unit management
+-   Analytics dashboard
+
+The goal is to simplify **property and guest management for small and
+mid-sized hospitality businesses**.
+
+------------------------------------------------------------------------
+
+## 👨‍💻 Portfolio
+
+Some of my projects are available at:
+
+🔗 https://benjamin-tietz.com
+
+------------------------------------------------------------------------
+
+## 📫 Contact
+
+mail@benjamin-tietz.com
+
+------------------------------------------------------------------------
+
+## 💻 Tech Stack
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Angular](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
