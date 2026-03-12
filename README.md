@@ -1,25 +1,4 @@
-```{=html}
-<h1 align="center">
-```
-Hi 👋, I'm @BenjaminTietz
-```{=html}
-</h1>
-```
-```{=html}
-<h3 align="center">
-```
-A passionate fullstack developer from Germany.
-```{=html}
-</h3>
-```
-```{=html}
-<p align="center">
-```
-`<img alt="Coding GIF" width="300px" height="auto" src="https://github.com/user-attachments/assets/f72af3a4-5aa0-4c11-9bf3-eeeab6c87b23"/>`{=html}
-```{=html}
-</p>
-```
-I'm currently working on 🛠
+<h1 align="center">Hi 👋, I'm @BenjaminTietz</h1> <h3 align="center">A passionate fullstack developer from Germany.</h3> <p align="center"> <img alt="Coding GIF" width="300px" height="auto" src="https://github.com/user-attachments/assets/f72af3a4-5aa0-4c11-9bf3-eeeab6c87b23"/> </p> I'm currently working on 🛠
 
 ## 🇹🇭 Thailand Vloggers Platform
 
