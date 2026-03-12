@@ -167,35 +167,6 @@ Infrastructure
 
 ------------------------------------------------------------------------
 
-## 🚀 Additional Project
-
-### LeaseLoop --- Property Management System
-
-A **Property Management System** designed for **guesthouses and Airbnb
-owners**.
-
-Frontend
-
--   Angular 18
-
-Backend
-
--   Python
--   Django REST Framework
--   PostgreSQL
-
-Core Features
-
--   User authentication
--   Booking management
--   Invoicing system
--   Property & unit management
--   Analytics dashboard
-
-The goal is to simplify **property and guest management for small and
-mid-sized hospitality businesses**.
-
-------------------------------------------------------------------------
 
 ## 👨‍💻 Portfolio
 
