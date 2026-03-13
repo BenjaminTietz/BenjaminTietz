@@ -20,6 +20,7 @@ into a **structured SEO-driven content ecosystem**.
 
 ------------------------------------------------------------------------
 
+
 ## 🏗 Platform Architecture
 
 The system follows a **three-layer architecture**.
